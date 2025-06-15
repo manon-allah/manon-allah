@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Menna
+## Hi there 👋 I'm Menna Allah
 # Junior Flutter Developer | 🎯 Passionate about UI/UX
 
 # 💫 About Me:
