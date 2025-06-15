@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Menna Allah
-# Junior Flutter Developer | 🎯 Passionate about UI/UX
+# Hi there 👋 I'm Menna Allah
+### Junior Flutter Developer | 🎯 Passionate about UI/UX
 
 # 💫 About Me:
 -🌱 Currently learning advanced Flutter concepts   <br>- 🚀 I finished building a small social media app using Flutter & Firebase<br>- 🧠 Always exploring better ways to design clean and user-friendly UIs  <br>- 🔎 I believe in learning by building real projects  <br>- 📚 I love sharing what I learn 
